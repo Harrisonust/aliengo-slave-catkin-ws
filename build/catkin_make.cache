@@ -1,2 +1,0 @@
-multiMachine
--DCATKIN_DEVEL_PREFIX=/home/unitree/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/unitree/catkin_ws/install -DCATKIN_WHITELIST_PACKAGES=multiMachine -G Unix Makefiles
