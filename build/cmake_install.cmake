@@ -131,10 +131,7 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/unitree/catkin_ws/build/gtest/cmake_install.cmake")
-  include("/home/unitree/catkin_ws/build/slamrplidar/slam_planner_sdk/cmake_install.cmake")
-  include("/home/unitree/catkin_ws/build/slamrplidar/slamware_sdk/cmake_install.cmake")
-  include("/home/unitree/catkin_ws/build/slamrplidar/slamware_ros_sdk/cmake_install.cmake")
-  include("/home/unitree/catkin_ws/build/slamrplidar/slam_planner/cmake_install.cmake")
+  include("/home/unitree/catkin_ws/build/multiMachine/cmake_install.cmake")
 
 endif()
 

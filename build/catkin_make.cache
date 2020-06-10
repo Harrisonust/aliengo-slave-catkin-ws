@@ -1,2 +1,2 @@
-slamrplidar/slam_planner:slamrplidar/slam_planner_sdk:slamrplidar/slamware_ros_sdk:slamrplidar/slamware_sdk
--DCATKIN_DEVEL_PREFIX=/home/unitree/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/unitree/catkin_ws/install -G Unix Makefiles
+multiMachine
+-DCATKIN_DEVEL_PREFIX=/home/unitree/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/unitree/catkin_ws/install -DCATKIN_WHITELIST_PACKAGES=multiMachine -G Unix Makefiles
